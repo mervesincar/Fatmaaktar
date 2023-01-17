@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatmaaktar8" target="blank"><img src="https://img.shields.io/twitter/follow/fatmaaktar8?logo=twitter&style=for-the-badge" alt="fatmaaktar8" /></a> </p>
 
-- 📫 How to reach me **fatmaaktar58@gmail.com**
+- 📫contact info **fatmaaktar58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
