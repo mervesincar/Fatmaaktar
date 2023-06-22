@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmaaktar&label=Profile%20views&color=0e75b6&style=flat" alt="fatmaaktar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fatmaaktar8" target="blank"><img src="https://img.shields.io/twitter/follow/fatmaaktar8?logo=twitter&style=for-the-badge" alt="fatmaaktar8" /></a> </p>
-
 - 📫contact info **fatmaaktar58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
