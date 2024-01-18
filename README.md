@@ -15,8 +15,8 @@
 
 ## Contact
 
-- 💼 [LinkedIn profile](https://www.linkedin.com/in/fatmaaktar/)
-- 🐦 [Twitter profile](https://twitter.com/fatmaaktar).
+- 💼 [LinkedIn profile](https://www.linkedin.com/in/fatma-aktar-414521233/)
+- 🐦 [Twitter profile](https://twitter.com/ftm-ktr).
 - 📚 [Medium profile](https://medium.com/@fatmaaktar)
 
 ## Statistics
