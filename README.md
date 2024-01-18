@@ -15,7 +15,6 @@
 
 ## Contact
 
-- 📧 [Email](fatmaaktar58@gmail.com)
 - 💼 [LinkedIn profile](https://www.linkedin.com/in/fatmaaktar/)
 - 🐦 [Twitter profile](https://twitter.com/fatmaaktar).
 - 📚 [Medium profile](https://medium.com/@fatmaaktar)
