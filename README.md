@@ -1,4 +1,4 @@
-# Hello, I'm Fatma Aktar! 👋
+# Hello, I'm Fatma Aktar!👋  
 ### I'm a Software Developer
 
 ## About Me
@@ -9,7 +9,7 @@
 
 ## Skills
 
-- 💻 C, C#, SQL, Asp.NET Core, Java, HTML, CSS.
+- 💻 C, C#, SQL, Asp.NET Core, Java, HTML, CSS,Boostrap.
 - 🛠 Visual Studio, Visual Studio Code, Git, IntelliJ IDEA.
 - 📚 Web Development - Backend.
 
